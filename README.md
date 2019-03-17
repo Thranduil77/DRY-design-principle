@@ -1,4 +1,4 @@
-# DRY - Design Principle (Don’t-Repeat-Yourself)
+# DRY design drinciple (Don’t-Repeat-Yourself)
 
 The idea behind the Don’t-Repeat-Yourself (DRY) design principle is an easy one: a piece of logic should only be represented once in an application. In other words avoiding the repetition of any part of a system is a desirable trait. Code that is common to at least two different parts of your system should be factored out into a single location so that both parts call upon in. In plain English all this means that you should stop doing copy+paste right away in your software. Your motto should be the following:
 

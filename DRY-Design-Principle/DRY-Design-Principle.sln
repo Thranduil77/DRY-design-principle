@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DRY-Design-Principle", "DRY-Design-Principle\DRY-Design-Principle.csproj", "{B8638FA3-D8E8-4FE7-998A-0EB376AAD12C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8638FA3-D8E8-4FE7-998A-0EB376AAD12C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8638FA3-D8E8-4FE7-998A-0EB376AAD12C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8638FA3-D8E8-4FE7-998A-0EB376AAD12C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8638FA3-D8E8-4FE7-998A-0EB376AAD12C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEA6B262-C3CE-45D5-A2DA-F5C20152A2BA}
+	EndGlobalSection
+EndGlobal
